@@ -1,4 +1,4 @@
-# es5-6-Examples
+# es5-es6
 ES5 &amp; ES6 Examples.
 
 Reference:
